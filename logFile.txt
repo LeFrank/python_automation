@@ -1,0 +1,177 @@
+20160620_1504: was run succesfully.
+Output: Failed to run
+
+20160620_1504: was run succesfully.
+Output: Window opened.
+
+20160620_1505: was run succesfully.
+Output: Failed to run
+
+20160620_1506: was run succesfully.
+Output: Failed to run
+
+20160620_1507: was run succesfully.
+Output: Failed to run
+
+20160620_1508: was run succesfully.
+Output: Failed to run
+
+20160620_1509: was run succesfully.
+Output: Failed to run
+
+20160620_1510: was run succesfully.
+Output: Failed to run
+
+20160620_1511: was run succesfully.
+Output: Failed to run
+
+20160620_1512: was run succesfully.
+Output: Window opened.
+
+20160620_1520: was run succesfully.
+Output: Window opened.
+
+20160620_1521: was run succesfully.
+Output: Window opened.
+
+20160620_1522: was run succesfully.
+Output: Window opened.
+
+20160620_1530: was run succesfully.
+Output: Window opened.
+
+20160620_1545: was run succesfully.
+Output: Window opened.
+
+20160620_1600: was run succesfully.
+Output: Window opened.
+
+20160620_1615: was run succesfully.
+Output: Window opened.
+
+20160620_1630: was run succesfully.
+Output: Window opened.
+
+20160620_1645: was run succesfully.
+Output: Window opened.
+
+20160620_1700: was run succesfully.
+Output: Window opened.
+
+20160620_1715: was run succesfully.
+Output: Window opened.
+
+20160620_1730: was run succesfully.
+Output: Window opened.
+
+20160620_1745: was run succesfully.
+Output: Window opened.
+
+20160620_1800: was run succesfully.
+Output: Window opened.
+
+20160621_0915: was run succesfully.
+Output: Window opened.
+
+20160621_0930: was run succesfully.
+Output: Window opened.
+
+20160621_0945: was run succesfully.
+Output: Window opened.
+
+20160621_1000: was run succesfully.
+Output: Window opened.
+
+20160621_1015: was run succesfully.
+Output: Window opened.
+
+20160621_1030: was run succesfully.
+Output: Window opened.
+
+20160621_1045: was run succesfully.
+Output: Window opened.
+
+20160621_1100: was run succesfully.
+Output: Window opened.
+
+20160621_1115: was run succesfully.
+Output: Window opened.
+
+20160621_1130: was run succesfully.
+Output: Window opened.
+
+20160621_1145: was run succesfully.
+Output: Window opened.
+
+20160621_1200: was run succesfully.
+Output: Window opened.
+
+20160621_1215: was run succesfully.
+Output: Window opened.
+
+20160621_1230: was run succesfully.
+Output: Window opened.
+
+20160621_1245: was run succesfully.
+Output: Window opened.
+
+20160621_1300: was run succesfully.
+Output: Window opened.
+
+20160621_1315: was run succesfully.
+Output: Window opened.
+
+20160621_1330: was run succesfully.
+Output: Window opened.
+
+20160621_1345: was run succesfully.
+Output: Window opened.
+
+20160621_1400: was run succesfully.
+Output: Window opened.
+
+20160621_1415: was run succesfully.
+Output: Window opened.
+
+20160621_1430: was run succesfully.
+Output: Window opened.
+
+20160621_1445: was run succesfully.
+Output: Window opened.
+
+20160621_1500: was run succesfully.
+Output: Window opened.
+
+20160621_1515: was run succesfully.
+Output: Window opened.
+
+20160621_1530: was run succesfully.
+Output: Window opened.
+
+20160621_1545: was run succesfully.
+Output: Window opened.
+
+20160621_1600: was run succesfully.
+Output: Window opened.
+
+20160621_1615: was run succesfully.
+Output: Window opened.
+
+20160621_1630: was run succesfully.
+Output: Window opened.
+
+20160621_1645: was run succesfully.
+Output: Window opened.
+
+20160621_1700: was run succesfully.
+Output: Window opened.
+
+20160621_1715: was run succesfully.
+Output: Window opened.
+
+20160621_1730: was run succesfully.
+Output: Window opened.
+
+20160621_1745: was run succesfully.
+Output: Window opened.
+

@@ -1,0 +1,10 @@
+http://www.bidorbuy.co.za/item/233538365/LCD1602_LCD_monitor_5V_blue_screen_and_white_code_for_ARDUINO_LOCAL_STOCK.html
+http://www.bidorbuy.co.za/item/233537946/IIC_I2C_Interface_LCD1602_2004_LCD_Adapter_Plate_for_Arduino_LOCAL_STOCK.html
+http://www.bidorbuy.co.za/item/231434629/HC_SR501_Infrared_PIR_Motion_Sensor_Module_For_Arduino_LOCAL_STOCK.html
+http://www.bidorbuy.co.za/item/231298385/DHT11_Temperature_and_Relative_Humidity_Sensor_Module_for_Arduino.html
+
+eclipse C++ version
+platformio.org
+
+platformio init --ide eclipse
+platformio run
